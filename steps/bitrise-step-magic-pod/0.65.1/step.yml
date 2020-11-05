@@ -6,7 +6,7 @@ description: |
 website: https://github.com/magic-Pod/bitrise-step-magicpod-uitest
 source_code_url: https://github.com/magic-Pod/bitrise-step-magicpod-uitest
 support_url: https://github.com/magic-Pod/bitrise-step-magicpod-uitest/issues
-published_at: 2020-11-05T16:21:13.294962+09:00
+published_at: 2020-11-05T16:38:08.744797+09:00
 source:
   git: https://github.com/Magic-Pod/bitrise-step-magic-pod.git
   commit: c1f8397d6ec35ca4d60ee2ebfef59a08662a2686
